@@ -15,8 +15,8 @@ We'll evaluate pull requests to this recipe by having our members taste and rate
 ## How to Contribute
 
 1. Devise a recipe that changes the recipe in one way. You can swap out one above spirit, add an additional spirit, or change the parts measurement on one existing spirit.
-2. A spirit added must be a single malt whisky, though it doesn't have to actually be Scotch.
-3. A spirit added must be generally available at better whisky/whiskey stores.
+  * A spirit added must be a single malt whisky, though it doesn't have to actually be Scotch.
+  * A spirit added must be generally available at better whisky/whiskey stores and be under $100 USD.
 4. Submit a pull request of this README file with your change in place above.
 5. We'll comment on it and review, and if we think it has a chance, we'll schedule a tasting for our members to try it out.
 
