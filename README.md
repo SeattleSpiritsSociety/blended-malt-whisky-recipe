@@ -1,4 +1,4 @@
-# The Seattle Spirits Society Blended Malt Whiskey Recipe
+# The Seattle Spirits Society Blended Malt Whisky Recipe
 
 This purpose of this repo is to store the current and best Seattle Spirits Society Blended Malt Whisky Recipe, which was originally created during our 49th Tasting Meeting in July 2016. We're moving this recipe to GitHub so we can improve upon it through collaboration with Whisky-loving developers and technologists all over the world!
 
